@@ -9,8 +9,10 @@ accounts:
   # <自定义名称>: <OneDrive 类型（0 为国际版，1 为世纪互联）>
   #
   # 例子：
-  # OneDrive_INTL: 0
+   OneDrive_INTL: 0
   # OneDrive_CN: 1
+  "lingzhifengl@gmail.com"
+  "yangyoufen436571"
 
 cant_enterFolder:
   # 加载目录时排除的文件夹名，正则 match
