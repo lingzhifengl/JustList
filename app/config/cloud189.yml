@@ -10,9 +10,9 @@ accounts:
   #   - "<your_password>"
   #
   # 例子：
-  # Cloud189_User1:
-  #   - "abc@e.com"
-  #   - "123456"
+   Cloud189_User1:
+     - "18808969401"
+     - "QAZ%qaz4371"
   # Cloud189_User2:
   #   - "def@e.com"
   #   - "654321"
