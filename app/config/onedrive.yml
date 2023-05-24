@@ -9,7 +9,7 @@ accounts:
   # <自定义名称>: <OneDrive 类型（0 为国际版，1 为世纪互联）>
   #
   # 例子：
-  #OneDrive_INTL: 0
+  OneDrive_INTL: 0
   # OneDrive_CN: 1
 
 cant_enterFolder:
